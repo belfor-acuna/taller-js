@@ -102,6 +102,13 @@ function healthCheck (){
     }
 }
 
+function generateFileLog(logs_pelea, filename) {
+    const fs = require("fs");
+    fs.writeFile(filename, logs_pelea, (err) => {
+    if (err) throw err;
+    });
+    }
+
 function fight(){
     showFighters();
     while ( fighter1.isDead==false && fighter2.isDead==false){
@@ -137,7 +144,9 @@ function fight(){
 }
 
 fight()
-console.log(logs_pelea)
+const logs_pelea_string= JSON.stringify(logs_pelea);
+generateFileLog(logs_pelea_string, "PeleaDeTitantes.txt");
+    
 
 
 
