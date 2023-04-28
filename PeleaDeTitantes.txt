@@ -1,1 +1,192 @@
-["German | Class: FAIRY | Health: 167 VS Marco | Class: MAGICIAN | Health: 178"," Turno: 1","German ataca con Flame Burst... DA EN ELBLANCO! La vida de Marco queda en 160"," Turno: 2","Marco ataca con Mind Blast... FALLÓ! La vida de German se mantiene en 167"," Turno: 3","German ataca con Flame Burst... FALLÓ! La vida de Marco se mantiene en 160"," Turno: 4","Marco ataca con Mind Blast... FALLÓ! La vida de German se mantiene en 167"," Turno: 5","German ataca con Hurricane... FALLÓ! La vida de Marco se mantiene en 160"," Turno: 6","Marco ataca con Divine Smite... DA EN ELBLANCO! La vida de German queda en 139"," Turno: 7","German ataca con Hurricane... FALLÓ! La vida de Marco se mantiene en 160"," Turno: 8","Marco ataca con Divine Smite... FALLÓ! La vida de German se mantiene en 139"," Turno: 9","German ataca con Flame Burst... DA EN ELBLANCO! La vida de Marco queda en 142"," Turno: 10","Marco ataca con Divine Smite... FALLÓ! La vida de German se mantiene en 139"," Turno: 11","German ataca con Flame Burst... FALLÓ! La vida de Marco se mantiene en 142"," Turno: 12","Marco ataca con Divine Smite... FALLÓ! La vida de German se mantiene en 139"," Turno: 13","German ataca con Flame Burst... FALLÓ! La vida de Marco se mantiene en 142"," Turno: 14","Marco ataca con Divine Smite... FALLÓ! La vida de German se mantiene en 139"," Turno: 15","German ataca con Flame Burst... FALLÓ! La vida de Marco se mantiene en 142"," Turno: 16","Marco ataca con Divine Smite... FALLÓ! La vida de German se mantiene en 139"," Turno: 17","German ataca con Flame Burst... DA EN ELBLANCO! La vida de Marco queda en 124"," Turno: 18","Marco ataca con Divine Smite... FALLÓ! La vida de German se mantiene en 139"," Turno: 19","German ataca con Hurricane... FALLÓ! La vida de Marco se mantiene en 124"," Turno: 20","Marco ataca con Mind Blast... FALLÓ! La vida de German se mantiene en 139"," Turno: 21","German ataca con Hurricane... FALLÓ! La vida de Marco se mantiene en 124"," Turno: 22","Marco ataca con Mind Blast... FALLÓ! La vida de German se mantiene en 139"," Turno: 23","German ataca con Flame Burst... FALLÓ! La vida de Marco se mantiene en 124"," Turno: 24","Marco ataca con Divine Smite... FALLÓ! La vida de German se mantiene en 139"," Turno: 25","German ataca con Flame Burst... FALLÓ! La vida de Marco se mantiene en 124"," Turno: 26","Marco ataca con Mind Blast... DA EN ELBLANCO! La vida de German queda en 131"," Turno: 27","German ataca con Hurricane... DA EN ELBLANCO! La vida de Marco queda en 102"," Turno: 28","Marco ataca con Divine Smite... DA EN ELBLANCO! La vida de German queda en 103"," Turno: 29","German ataca con Flame Burst... FALLÓ! La vida de Marco se mantiene en 102"," Turno: 30","Marco ataca con Mind Blast... FALLÓ! La vida de German se mantiene en 103"," Turno: 31","German ataca con Hurricane... DA EN ELBLANCO! La vida de Marco queda en 80"," Turno: 32","Marco ataca con Divine Smite... DA EN ELBLANCO! La vida de German queda en 75"," Turno: 33","German ataca con Flame Burst... FALLÓ! La vida de Marco se mantiene en 80"," Turno: 34","Marco ataca con Divine Smite... DA EN ELBLANCO! La vida de German queda en 47"," Turno: 35","German ataca con Flame Burst... DA EN ELBLANCO! La vida de Marco queda en 62"," Turno: 36","Marco ataca con Divine Smite... DA EN ELBLANCO! La vida de German queda en 19"," Turno: 37","German ataca con Hurricane... FALLÓ! La vida de Marco se mantiene en 62"," Turno: 38","Marco ataca con Divine Smite... DA EN ELBLANCO! La vida de German queda en -9","EL COMBATE TERMINA!","German no puede continuar","Marco GANA LA BATALLA!","German falló 13 veces sus ataques","Marco falló 12 veces sus ataques"]
+German | Class: MAGICIAN | Health: 160 VS Marco | Class: MAGICIAN | Health: 155
+
+ Turno: 1
+
+German ataca con Thunderstorm... FALLÓ! La vida de Marco se mantiene en 155
+
+ Turno: 2
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 160
+
+ Turno: 3
+
+German ataca con Shadow Bolt... DA EN ELBLANCO! La vida de Marco queda en 135
+
+ Turno: 4
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 160
+
+ Turno: 5
+
+German ataca con Shadow Bolt... FALLÓ! La vida de Marco se mantiene en 135
+
+ Turno: 6
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 160
+
+ Turno: 7
+
+German ataca con Shadow Bolt... FALLÓ! La vida de Marco se mantiene en 135
+
+ Turno: 8
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 160
+
+ Turno: 9
+
+German ataca con Thunderstorm... FALLÓ! La vida de Marco se mantiene en 135
+
+ Turno: 10
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 160
+
+ Turno: 11
+
+German ataca con Shadow Bolt... FALLÓ! La vida de Marco se mantiene en 135
+
+ Turno: 12
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 160
+
+ Turno: 13
+
+German ataca con Shadow Bolt... FALLÓ! La vida de Marco se mantiene en 135
+
+ Turno: 14
+
+Marco ataca con Thunderstorm... FALLÓ! La vida de German se mantiene en 160
+
+ Turno: 15
+
+German ataca con Shadow Bolt... DA EN ELBLANCO! La vida de Marco queda en 115
+
+ Turno: 16
+
+Marco ataca con Thunderstorm... FALLÓ! La vida de German se mantiene en 160
+
+ Turno: 17
+
+German ataca con Thunderstorm... FALLÓ! La vida de Marco se mantiene en 115
+
+ Turno: 18
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 160
+
+ Turno: 19
+
+German ataca con Shadow Bolt... DA EN ELBLANCO! La vida de Marco queda en 95
+
+ Turno: 20
+
+Marco ataca con Thunderstorm... DA EN ELBLANCO! La vida de German queda en 130
+
+ Turno: 21
+
+German ataca con Shadow Bolt... FALLÓ! La vida de Marco se mantiene en 95
+
+ Turno: 22
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 130
+
+ Turno: 23
+
+German ataca con Thunderstorm... FALLÓ! La vida de Marco se mantiene en 95
+
+ Turno: 24
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 130
+
+ Turno: 25
+
+German ataca con Thunderstorm... FALLÓ! La vida de Marco se mantiene en 95
+
+ Turno: 26
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 130
+
+ Turno: 27
+
+German ataca con Shadow Bolt... DA EN ELBLANCO! La vida de Marco queda en 75
+
+ Turno: 28
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 130
+
+ Turno: 29
+
+German ataca con Thunderstorm... FALLÓ! La vida de Marco se mantiene en 75
+
+ Turno: 30
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 130
+
+ Turno: 31
+
+German ataca con Shadow Bolt... DA EN ELBLANCO! La vida de Marco queda en 55
+
+ Turno: 32
+
+Marco ataca con Thunderstorm... DA EN ELBLANCO! La vida de German queda en 100
+
+ Turno: 33
+
+German ataca con Shadow Bolt... FALLÓ! La vida de Marco se mantiene en 55
+
+ Turno: 34
+
+Marco ataca con Thunderstorm... FALLÓ! La vida de German se mantiene en 100
+
+ Turno: 35
+
+German ataca con Thunderstorm... FALLÓ! La vida de Marco se mantiene en 55
+
+ Turno: 36
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 100
+
+ Turno: 37
+
+German ataca con Shadow Bolt... DA EN ELBLANCO! La vida de Marco queda en 35
+
+ Turno: 38
+
+Marco ataca con Thunderstorm... FALLÓ! La vida de German se mantiene en 100
+
+ Turno: 39
+
+German ataca con Thunderstorm... FALLÓ! La vida de Marco se mantiene en 35
+
+ Turno: 40
+
+Marco ataca con Thunderstorm... DA EN ELBLANCO! La vida de German queda en 70
+
+ Turno: 41
+
+German ataca con Thunderstorm... FALLÓ! La vida de Marco se mantiene en 35
+
+ Turno: 42
+
+Marco ataca con Thunderstorm... FALLÓ! La vida de German se mantiene en 70
+
+ Turno: 43
+
+German ataca con Shadow Bolt... DA EN ELBLANCO! La vida de Marco queda en 15
+
+ Turno: 44
+
+Marco ataca con Frost Nova... FALLÓ! La vida de German se mantiene en 70
+
+ Turno: 45
+
+German ataca con Thunderstorm... DA EN ELBLANCO! La vida de Marco queda en -15
+
+EL COMBATE TERMINA!
+
+Marco no puede continuar
+
+German GANA LA BATALLA!
+
+German falló 15 veces sus ataques
+
+Marco falló 19 veces sus ataques
+

@@ -55,7 +55,7 @@ function pickAtack(claseParametro){
 }
 
 function showFighters(){
-	logs_pelea.push(fighter1.name +" | Class: " +fighter1.clase + " | Health: " + fighter1.health + " VS " + fighter2.name +" | Class: " +fighter2.clase + " | Health: " + fighter2.health)
+	logs_pelea = logs_pelea + (fighter1.name +" | Class: " +fighter1.clase + " | Health: " + fighter1.health + " VS " + fighter2.name +" | Class: " +fighter2.clase + " | Health: " + fighter2.health +"\n\n")
 }
 
 function pickSpell(character){
@@ -69,17 +69,17 @@ function pickSpell(character){
 
 function attack(atacker, defender){
     let multiplicator = Math.floor(Math.random() * 10);
-    turno++;
+   
     let spell = pickSpell(atacker);
     let probability = (spell.accuracy*multiplicator)
     
     if(probability>=450 && healthCheck()==true){
-        logs_pelea.push(" Turno: "+turno);
+        
         defender.health -= spell.damage;
-        logs_pelea.push(atacker.name + " ataca con " + spell.name + "... DA EN ELBLANCO! La vida de " + defender.name+" queda en " + defender.health);
+        logs_pelea = logs_pelea + (atacker.name + " ataca con " + spell.name + "... DA EN EL BLANCO! La vida de " + defender.name+" queda en " + defender.health+"\n\n");
     }else if(probability<500){
-        logs_pelea.push(" Turno: "+turno);
-        logs_pelea.push(atacker.name + " ataca con " + spell.name + "... FALLÓ! La vida de " + defender.name+" se mantiene en " + defender.health);
+        
+        logs_pelea = logs_pelea + (atacker.name + " ataca con " + spell.name + "... FALLÓ! La vida de " + defender.name+" se mantiene en " + defender.health+"\n\n");
         atacker.fails++;
     }
 }
@@ -87,15 +87,15 @@ function attack(atacker, defender){
 function healthCheck (){
     if (fighter1.health <= 0){
         fighter1.isDead = true;
-        logs_pelea.push("EL COMBATE TERMINA!")
-        logs_pelea.push(fighter1.name + " no puede continuar")
-        logs_pelea.push(fighter2.name + " GANA LA BATALLA!")
+        logs_pelea = logs_pelea + ("EL COMBATE TERMINA!"+"\n\n")
+        logs_pelea = logs_pelea + (fighter1.name + " no puede continuar"+"\n\n")
+        logs_pelea = logs_pelea + (fighter2.name + " GANA LA BATALLA!"+"\n\n")
         return false;
     }if (fighter2.health<=0){
         fighter2.isDead = true;
-        logs_pelea.push("EL COMBATE TERMINA!")
-        logs_pelea.push(fighter2.name + " no puede continuar")
-        logs_pelea.push(fighter1.name + " GANA LA BATALLA!")
+        logs_pelea = logs_pelea + ("EL COMBATE TERMINA!"+"\n\n")
+        logs_pelea = logs_pelea + (fighter2.name + " no puede continuar"+"\n\n")
+        logs_pelea = logs_pelea + (fighter1.name + " GANA LA BATALLA!"+"\n\n")
         return false;
     }else{
         return true
@@ -113,6 +113,8 @@ function fight(){
     showFighters();
     while ( fighter1.isDead==false && fighter2.isDead==false){
         if (fighter1.speed>=fighter2.speed){
+            turno++;
+            logs_pelea = logs_pelea + (" Turno: "+turno+"\n\n");
             attack(fighter1,fighter2);
             if(fighter1.health <=0 || fighter2.health <=0){
                 healthCheck();
@@ -124,6 +126,7 @@ function fight(){
                 break;
             }
         }else if (fighter2.speed>fighter1.speed) {
+            logs_pelea = logs_pelea + (" Turno: "+turno+"\n\n");
             attack(fighter2,fighter1);
             if(fighter1.health <=0 || fighter2.health <=0){
                 healthCheck();
@@ -137,15 +140,14 @@ function fight(){
         }
     }
 
-    logs_pelea.push(fighter1.name+ " falló " + fighter1.fails +" veces sus ataques");
-    logs_pelea.push(fighter2.name+ " falló " + fighter2.fails +" veces sus ataques")
+    logs_pelea = logs_pelea + (fighter1.name+ " falló " + fighter1.fails +" veces sus ataques"+"\n\n");
+    logs_pelea = logs_pelea + (fighter2.name+ " falló " + fighter2.fails +" veces sus ataques"+"\n\n")
 
 
 }
 
 fight()
-const logs_pelea_string= JSON.stringify(logs_pelea);
-generateFileLog(logs_pelea_string, "PeleaDeTitantes.txt");
+generateFileLog(logs_pelea, "PeleaDeTitanes.txt");
     
 
 
