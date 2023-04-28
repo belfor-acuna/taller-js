@@ -126,6 +126,7 @@ function fight(){
                 break;
             }
         }else if (fighter2.speed>fighter1.speed) {
+            turno++;
             logs_pelea = logs_pelea + (" Turno: "+turno+"\n\n");
             attack(fighter2,fighter1);
             if(fighter1.health <=0 || fighter2.health <=0){

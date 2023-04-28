@@ -1,70 +1,94 @@
-German | Class: KNIGHT | Health: 122 VS Marco | Class: WARRIOR | Health: 143
+German | Class: WARRIOR | Health: 120 VS Marco | Class: WARRIOR | Health: 198
 
  Turno: 1
 
-German ataca con Kick Combo... DA EN EL BLANCO! La vida de Marco queda en 115
+German ataca con Sword Cleave... DA EN EL BLANCO! La vida de Marco queda en 190
 
-Marco ataca con Kick Combo... DA EN EL BLANCO! La vida de German queda en 94
+Marco ataca con Sword Thrust... DA EN EL BLANCO! La vida de German queda en 100
 
  Turno: 2
 
-German ataca con Fist Smash... DA EN EL BLANCO! La vida de Marco queda en 100
+German ataca con Fist Uppercut... DA EN EL BLANCO! La vida de Marco queda en 178
 
-Marco ataca con Kick Combo... FALLÓ! La vida de German se mantiene en 94
+Marco ataca con Fist Smash... DA EN EL BLANCO! La vida de German queda en 85
 
  Turno: 3
 
-German ataca con Kick Combo... DA EN EL BLANCO! La vida de Marco queda en 72
+German ataca con Sword Cleave... FALLÓ! La vida de Marco se mantiene en 178
 
-Marco ataca con Sword Thrust... FALLÓ! La vida de German se mantiene en 94
+Marco ataca con Fist Smash... FALLÓ! La vida de German se mantiene en 85
 
  Turno: 4
 
-German ataca con Fist Smash... DA EN EL BLANCO! La vida de Marco queda en 57
+German ataca con Sword Cleave... FALLÓ! La vida de Marco se mantiene en 178
 
-Marco ataca con Kick Combo... FALLÓ! La vida de German se mantiene en 94
+Marco ataca con Fist Smash... FALLÓ! La vida de German se mantiene en 85
 
  Turno: 5
 
-German ataca con Kick Combo... FALLÓ! La vida de Marco se mantiene en 57
+German ataca con Fist Uppercut... FALLÓ! La vida de Marco se mantiene en 178
 
-Marco ataca con Kick Combo... FALLÓ! La vida de German se mantiene en 94
+Marco ataca con Sword Thrust... DA EN EL BLANCO! La vida de German queda en 65
 
  Turno: 6
 
-German ataca con Fist Smash... FALLÓ! La vida de Marco se mantiene en 57
+German ataca con Sword Cleave... DA EN EL BLANCO! La vida de Marco queda en 170
 
-Marco ataca con Kick Combo... DA EN EL BLANCO! La vida de German queda en 66
+Marco ataca con Sword Thrust... FALLÓ! La vida de German se mantiene en 65
 
  Turno: 7
 
-German ataca con Kick Combo... FALLÓ! La vida de Marco se mantiene en 57
+German ataca con Sword Cleave... FALLÓ! La vida de Marco se mantiene en 170
 
-Marco ataca con Kick Combo... DA EN EL BLANCO! La vida de German queda en 38
+Marco ataca con Fist Smash... DA EN EL BLANCO! La vida de German queda en 50
 
  Turno: 8
 
-German ataca con Fist Smash... FALLÓ! La vida de Marco se mantiene en 57
+German ataca con Fist Uppercut... FALLÓ! La vida de Marco se mantiene en 170
 
-Marco ataca con Sword Thrust... DA EN EL BLANCO! La vida de German queda en 18
+Marco ataca con Sword Thrust... FALLÓ! La vida de German se mantiene en 50
 
  Turno: 9
 
-German ataca con Fist Smash... FALLÓ! La vida de Marco se mantiene en 57
+German ataca con Sword Cleave... FALLÓ! La vida de Marco se mantiene en 170
 
-Marco ataca con Sword Thrust... FALLÓ! La vida de German se mantiene en 18
+Marco ataca con Fist Smash... DA EN EL BLANCO! La vida de German queda en 35
 
  Turno: 10
 
-German ataca con Kick Combo... DA EN EL BLANCO! La vida de Marco queda en 29
+German ataca con Fist Uppercut... DA EN EL BLANCO! La vida de Marco queda en 158
 
-Marco ataca con Sword Thrust... FALLÓ! La vida de German se mantiene en 18
+Marco ataca con Sword Thrust... FALLÓ! La vida de German se mantiene en 35
 
  Turno: 11
 
-German ataca con Fist Smash... DA EN EL BLANCO! La vida de Marco queda en 14
+German ataca con Fist Uppercut... FALLÓ! La vida de Marco se mantiene en 158
 
-Marco ataca con Sword Thrust... DA EN EL BLANCO! La vida de German queda en -2
+Marco ataca con Sword Thrust... DA EN EL BLANCO! La vida de German queda en 15
+
+ Turno: 12
+
+German ataca con Fist Uppercut... DA EN EL BLANCO! La vida de Marco queda en 146
+
+Marco ataca con Sword Thrust... FALLÓ! La vida de German se mantiene en 15
+
+ Turno: 13
+
+German ataca con Sword Cleave... DA EN EL BLANCO! La vida de Marco queda en 138
+
+Marco ataca con Fist Smash... FALLÓ! La vida de German se mantiene en 15
+
+ Turno: 14
+
+German ataca con Sword Cleave... FALLÓ! La vida de Marco se mantiene en 138
+
+Marco ataca con Sword Thrust... FALLÓ! La vida de German se mantiene en 15
+
+ Turno: 15
+
+German ataca con Sword Cleave... FALLÓ! La vida de Marco se mantiene en 138
+
+Marco ataca con Fist Smash... DA EN EL BLANCO! La vida de German queda en 0
 
 EL COMBATE TERMINA!
 
@@ -72,7 +96,7 @@ German no puede continuar
 
 Marco GANA LA BATALLA!
 
-German falló 5 veces sus ataques
+German falló 9 veces sus ataques
 
-Marco falló 6 veces sus ataques
+Marco falló 8 veces sus ataques
 
